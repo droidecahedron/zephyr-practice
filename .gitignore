@@ -1,0 +1,9 @@
+# build files
+build/
+
+# local machine files
+*.code-workspace
+*.vscode
+Kconfig
+
+#prj.conf is necessary for gpio
