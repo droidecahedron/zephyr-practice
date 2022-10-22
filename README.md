@@ -1,1 +1,0 @@
-# Practicing Zephyr Threads+FIFO
